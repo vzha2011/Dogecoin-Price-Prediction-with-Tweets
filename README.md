@@ -1,6 +1,6 @@
 # Dogecoin-Price-Prediction-with-Tweets
 
-- Collected hourly highest Dogecoin prices and the retweet count of around small amount of popular tweets mentioned $Doge from last 7 days
+- Collected hourly highest Dogecoin prices and the retweet count of small amount of popular tweets mentioned $Doge from last 7 days
   
 - Used scatter plots to check which hourly dogecoin prices are matched with popular tweets within 24 hours per day
 
