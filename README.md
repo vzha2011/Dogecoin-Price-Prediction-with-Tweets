@@ -6,6 +6,8 @@
 
 - Built a simple linear regression model to predict the next highest hourly dogecoin price with the average retweet count of popular tweets from last 7 days
 
+- Working on adding new features
+
 # Installation
 1. Twitter developer account (for getting Twitter API keys and tokens) https://developer.twitter.com/en/apply-for-access
 2. Tweepy https://github.com/tweepy/tweepy
